@@ -1,0 +1,53 @@
+.footer-edit {
+  background-color: #222222;
+  /*color: hsla(0,0%,100%,.3);*/
+  /*text-align: center!important;*/
+  /*padding-bottom: 3rem!important;*/
+}
+
+@media (min-width:992px) {
+  .intro-img-two {
+    width: 75%;
+    float: left;
+  }
+}
+
+@media (min-width:992px) {
+  .intro-text-edit {
+    right: 0;
+    width: 60%;
+    margin-top: 3rem;
+    position: absolute;
+  }
+}
+
+.cta {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #222222;
+}
+
+.btn-outline-info:not(:disabled):not(.disabled).active, .btn-outline-info:not(:disabled):not(.disabled):active, .show > .btn-outline-info.dropdown-toggle {
+  color: #fff;
+  background-color: #1485ee;
+  border-color: #1485ee;
+}
+
+.text-info {
+  color: #73ecff!important;
+}
+
+.text-muted {
+  color: #868e96!important;
+}
+
+p {
+  text-align: center;
+}
+
+.btn-info, .btn-primary {
+  color: #fff;
+  background-color: #1485ee;
+  border-color: #1485ee;
+}
+
